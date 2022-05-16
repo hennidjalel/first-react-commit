@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "My new websit",
+            "body": "lorem ipsi=um...",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "Welcom party!",
+            "body": "lorem ipsi=um...",
+            "author": "yoshi",
+            "id": 2
+        },
+        {
+            "title": "Web dev top ninja",
+            "body": "lorem ipsi=um...",
+            "author": "mario",
+            "id": 3
+        }
+    ]
+}
